@@ -30,7 +30,9 @@ Bu proje, Flutter'da **Provider, Riverpod ve BLoC** kullanarak durum yönetimi (
 3. Terminal veya VS Code'da proje klasörüne gidin:
 
 ```bash
-cd fluttermobil 
+cd fluttermobil
+
+
 ```
 
 4. Gerekli paketleri yükleyin
@@ -42,6 +44,6 @@ flutter pub get
 ```bash
 flutter run
 ```
-
+-**Kübra Celep**
 
 
